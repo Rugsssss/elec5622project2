@@ -2,8 +2,7 @@
 
 ## Contents
 
-- `ELEC5622_Project2_VSCode.ipynb`: complete experimental source notebook with saved execution outputs (the record of the reported run).
-- `ELEC5622_Project2_clean.ipynb`: tidied copy of the same code, without outputs, plus a section that regenerates report Figures 1, 4, 5 and 7. Training cells skip any configuration already saved in `ELEC5622_Project2/results/`, so on the machine that trained the models it re-evaluates and redraws figures without retraining.
+- `ELEC5622_Project2_VSCode.ipynb`: complete experimental source notebook with saved execution outputs (the record of the reported run). Its final section (11) regenerates report Figures 1, 4, 5 and 7 from the saved result CSVs; it was added after the run and has no saved outputs.
 - `Requirements.txt`: Python dependencies used by the notebook.
 - `report/ELEC5622_Project2_HD_Report.docx`: project report.
 
