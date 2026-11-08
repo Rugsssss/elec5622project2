@@ -1,0 +1,21 @@
+# Tutor-provided data (not redistributed)
+Three Datasets for Training, Validation and Test/
+gt_training.csv
+*.zip
+
+# Notebook outputs: checkpoints, metrics, figures
+ELEC5622_Project2/
+
+# Local reference material
+Context/
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Office lock files, OS junk
+~$*
+.DS_Store
+Thumbs.db
