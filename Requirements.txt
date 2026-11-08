@@ -1,4 +1,5 @@
-torch
+# Experiments were run with Python 3.11 and PyTorch 2.15.0 (Apple MPS backend).
+torch==2.15.0
 torchvision
 numpy
 pandas
